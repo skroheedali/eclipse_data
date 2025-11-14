@@ -7,6 +7,7 @@ public class Demo {
 		System.out.println("Ali");
 		funA();
 		funB();
+		funC();
 	
 	}
 	public static  void funA()
@@ -17,5 +18,8 @@ public class Demo {
 	{
 		System.out.println("FunB");
 	}
-
+	public static  void funB()
+	{
+		System.out.println("FunB");
+	}
 }
